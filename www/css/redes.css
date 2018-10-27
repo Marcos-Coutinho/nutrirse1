@@ -1,0 +1,44 @@
+body a,input[type="submit"],a,.w3ls_footer_grid_left1_pos ul li a i{
+	transition:.5s ease-in;
+	-webkit-transition:.5s ease-in;
+	-moz-transition:.5s ease-in;
+	-o-transition:.5s ease-in;
+	-ms-transition:.5s ease-in;
+	text-decoration:none;
+}
+
+/*-- footer --*/
+.w3ls_footer_grid_left1_pos{
+	position:absolute;
+	bottom:-5%;
+	left:0%;
+}
+.w3ls_footer_grid_left1_pos ul li{
+	display:inline-block;
+	margin-right:2em;
+}
+.w3ls_footer_grid_left1_pos ul li a{
+	color:#fff;
+	text-decoration:none;
+	font-family: 'Open Sans', sans-serif;
+	
+	text-align:center;
+}
+.w3ls_footer_grid_left1_pos ul li a i{
+	padding-right: 1em;
+}
+.w3ls_footer_grid_left1_pos ul li a.facebook i{
+	color:#3b5998;
+}
+.w3ls_footer_grid_left1_pos ul li a.instagram i{
+	color:#833ab4;
+}
+.w3ls_footer_grid_left1_pos ul li a.facebook:hover{
+	color:#3b5998;
+}
+.w3ls_footer_grid_left1_pos ul li a.instagram:hover{
+	color:#833ab4;
+}
+.w3ls_footer_grid_left1_pos ul li a:hover i{
+	color:#fff;
+}

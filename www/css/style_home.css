@@ -1,0 +1,425 @@
+.iframe_promo{
+	text-align:center;
+	background:;
+	margin:0px 0px 0px 0px;
+	height:100%;
+}
+.iframe_img{
+	text-align:center;
+	background:;
+	margin:0px 0px 0px 0px;
+
+}
+
+/*-- botão geral --*/
+#btn_centro {
+    width: 100%;
+	background:;
+	text-align:center;
+	margin-top:20px;
+}
+.bt {
+	border:0px solid #25692A;
+	border-radius:0px;
+	width:;
+	cursor:pointer;
+	font-family:Verdana;
+	font-weight:bold;
+	font-size:13px;
+	padding:6px 30px;
+	text-decoration:none;
+	margin-top:20px;
+	background-color:;
+	outline: none;
+}
+.bt-az {
+	background:#1cc924;
+	box-shadow:;
+	color:#fff;
+	text-shadow:;  
+}
+
+.bt-az:hover {
+	background:#1cc924;
+	color:#fff;
+	text-shadow:;
+	outline: none;
+}
+.bt-az1 {
+	background:;
+	box-shadow:;
+	color:#fff;
+	text-shadow:;
+	border:1px solid #ffff00;
+}
+
+.bt-az1:hover {
+	background:;
+	color:#fff;
+	text-shadow:;
+	outline: none;
+	border:1px solid #ffff00;
+}
+
+.bt:active {
+	position:relative;
+	top:2px;
+	color:#fff;
+	outline: none;
+}
+
+/*
+.bt {
+	border:0px solid #25692A;
+	border-radius:4px;
+	width:;
+	cursor:pointer;
+	font-family:Verdana;
+	font-weight:bold;
+	font-size:13px;
+	padding:6px 30px;
+	text-decoration:none;
+	margin-top:20px;
+	background-color:;
+	outline: none;
+}
+.bt-az {
+	background:linear-gradient(to bottom, #11931d 5%, #1cc924 100%);
+	box-shadow:inset 0px 0px 0px 0px #fff;
+	color:#fff;
+	text-shadow:0px 1px 0px #000;  
+}
+
+.bt-az:hover {
+	background:linear-gradient(to bottom, #1cc924 5%, #11931d 100%);
+	color:#fff;
+	text-shadow:0px 1px 0px #000;
+	outline: none;
+}
+
+.bt:active {
+	position:relative;
+	top:2px;
+	color:#fff;
+	outline: none;
+}
+*/
+/*-- //botão geral --*/
+
+/*-- banner inicial --*/
+.banner{
+	background:url(../images/banner1.jpg) no-repeat 0px 0px;
+	background-size:cover;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	-ms-background-size:cover;
+	min-height:230px;
+}
+.agileits_banner_right{
+	float:right;
+	width:40%;
+}
+/*-- //banner inicial --*/
+
+/*-- titulos --*/
+.infor_apresentação{
+	padding:0 0;
+	margin-top: 2em;
+}
+.infor_apresentação h3{
+	font-size:1.5em;
+}
+.infor_promocao{
+	padding:0 0;
+	margin-top: 2em;
+}
+.infor_promocao h3{
+	font-size:1.5em;
+	color:#212121;
+}
+.infor_produtos_destaque{
+	padding:0 0;
+	margin-top: 2em;
+}
+.infor_produtos_destaque h3{
+	font-size:1.5em;
+	color:#212121;
+}
+.infor_curiosidades{
+	padding:0 0;
+	margin-top: 2em;
+}
+.infor_curiosidades h3{
+	font-size:1.5em;
+	color:#212121;
+}
+.infor_dicas{
+	padding:0 0;
+	margin-top: 2em;
+}
+.infor_dicas h3{
+	font-size:1.5em;
+	color:#212121;
+}
+.infor_receitas{
+	padding:0 0;
+	margin-top: 2em;
+}
+.infor_receitas h3{
+	font-size:1.5em;
+	color:#212121;
+}
+.infor_galeria{
+	padding:0 0;
+	margin-top: 2em;
+}
+.infor_galeria h3{
+	font-size:1.5em;
+	color:#212121;
+}
+/*-- //titulos --*/
+
+/*-- subtitulos --*/
+.subtitulo_f_branco{
+	text-align:center;
+	color:#dd0505;
+	margin:1em 0 0em;
+	font-style:italic;
+	padding-bottom:10px;
+}
+.subtitulo_f_branco_intro{
+	text-align:center;
+	color:#212121;
+	margin:1em 0 0em;
+	font-style: ;
+	padding-bottom:10px;
+}
+.subtitulo_f_img{
+	text-align:center;
+	color:#fff;
+	margin:1em 0 0em;
+	font-style: italic;
+	padding-bottom:10px;
+}
+/*-- //subtitulos --*/
+
+/*-- cardápio --*/
+.cardapio{
+	background:url(../images/6.jpg) no-repeat 0px 0px;
+	background-size:cover;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	-ms-background-size:cover;
+	margin-top:0px;
+}
+.cardapio{
+	padding:3em 0;
+}
+/*-- //cardápio --*/
+
+/*-- planos --*/
+.planos{
+	background:url(../images/16.jpg) no-repeat 0px 0px;
+	background-size:cover;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	-ms-background-size:cover;
+	margin-top:25px;
+}
+.planos{
+	padding:3em 0;
+}
+/*-- //planos --*/
+
+/*-- dicas --*/
+.dicas{
+	background:url(../images/16.jpg) no-repeat 0px 0px;
+	background-size:cover;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	-ms-background-size:cover;
+	margin-top:25px;
+}
+.dicas{
+	padding:3em 0;
+}
+/*-- //dicas --*/
+
+/*-- newsletter --*/
+.news_letter{
+	background:url(../images/16.jpg) no-repeat 0px 0px;
+	background-size:cover;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	-ms-background-size:cover;
+	margin-top:25px;
+}
+.news_letter{
+	padding:3em 0;
+}
+.news_letter form{
+	margin: 3em auto 0;
+    width: 60%;
+	text-align: center;
+}
+.news_letter input[type="email"]{
+	outline:none;
+	border:1px solid #999;
+	background:rgba(0, 0, 0, 0.36);
+	color:#999;
+	padding:10px;
+	font-size:14px;
+	width:100%;
+}
+/*-- //newsletter --*/
+@media (max-width:1050px){
+	.iframe_img{
+		background:;
+		margin:0px 0px 0px 0px;
+		height:230px;
+	}	
+}
+
+@media (max-width:1024px){
+	.iframe_img{
+		background:;
+		margin:0px 0px 0px 0px;
+		visibility:none;
+		height:470px;
+	}	
+}
+@media (max-width:768px){
+		.iframe_img{
+		background:;
+		margin:0px 0px 0px 0px;
+		height:230px;
+	}
+}
+@media (max-width:736px){ /*-- tablet portrait height="1090px--*/
+	.iframe_img{
+		background:;
+		margin:0px 0px 0px 0px;
+		height:1090px;
+	}	
+}
+@media (max-width:667px){
+	.banner {
+		min-height: 225px;		
+	}
+	.news_letter form {
+		width: 70%;
+	}	
+}
+@media (max-width:640px){
+	.banner {
+		min-height: 215px;
+	}
+}
+@media (max-width:600px){
+	.banner {
+		min-height: 200px;
+	}
+}
+@media (max-width:568px){
+	.banner {
+		min-height: 185px;
+	}	
+}
+@media (max-width:480px){
+	.agileits_banner_right {
+		padding-top: 1.9em;
+	}
+	.infor_apresentação{
+		padding:0 0;
+		margin-top: 2em;
+	}
+	.infor_apresentação h3 {
+		font-size: 1.3em;
+	}
+	.infor_promocao{
+		padding:0 0;
+		margin-top: 2em;
+	}
+	.infor_promocao h3 {
+		font-size: 1.3em;
+	}
+	.infor_produtos_destaque{
+		padding:0 0;
+		margin-top: 2em;
+	}
+	.infor_produtos_destaque h3 {
+		font-size: 1.3em;
+	}
+	.infor_curiosidades{
+		padding:0 0;
+		margin-top: 2em;
+	}
+	.infor_curiosidades h3 {
+		font-size: 1.3em;
+	}
+	.infor_dicas{
+		padding:0 0;
+		margin-top: 2em;
+	}
+	.infor_dicas h3 {
+		font-size: 1.3em;
+	}
+	.infor_receitas{
+		padding:0 0;
+		margin-top: 2em;
+	}
+	.infor_receitas h3 {
+		font-size: 1.3em;
+	}
+	.infor_galeria{
+		padding:0 0;
+		margin-top: 2em;
+	}
+	.infor_galeria h3 {
+		font-size: 1.3em;
+	}
+	.news_letter form {
+		width: 100%;
+		margin: 2em auto 0;
+	}
+	.news_letter {
+		padding: 2em 0;
+	}
+}
+@media (max-width:414px){
+	.banner {
+		min-height: 161px;
+	}
+}
+@media (max-width:384px){
+	.agileits_banner_right {
+		padding-top: 3.8em;
+		width: 35%;
+	}	
+	.iframe_img{
+		background:;
+		margin:0px 0px 0px 0px;
+		height:735px;
+	}
+}
+@media (max-width:375px){
+	.banner {
+		min-height: 158px;
+	}	
+}
+@media (max-width:370px){
+	.agileits_banner_right {
+		padding-top: 2.8em;
+	}
+	.banner {
+		min-height: 125px;
+	}
+	p,.newsletter input[type="email"]{
+		font-size: 13px;
+	}	
+}

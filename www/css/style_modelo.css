@@ -1,0 +1,200 @@
+/* geral - sem resolução */
+
+/* //geral - sem resolução */
+
+
+
+
+
+
+/*   */
+
+/* notebook e desktop 24 polegadas (1920x1200, 1920 x 1080) */
+@media (max-width:1920px){   
+		
+}
+
+
+/* notebook e desktop 22 polegadas - macbook 13 polegadas (1680 x 1050) */
+@media (max-width:1680px){   
+		
+}
+
+
+/* notebook e desktop 20 polegadas (1600 x 900) */
+@media (max-width:1600px){   
+		
+}
+
+
+/* notebook e desktop 19 polegadas (1440 x 900) */
+@media (max-width:1440px){   
+		
+}
+
+
+/* notebook e desktop 15 polegadas (1366 x 768) */
+@media (max-width:1366px){   
+		
+}
+
+
+/* notebook, desktop e notebook with touch 13 polegadas (1280 x 768) */
+@media (max-width:1280px){   
+		
+}
+
+
+/* 
+notebook e desktop 12 e 10 polegadas (1024 x 768)
+tablets ipad 12.5"  (1024 x 1336)
+ */
+@media (max-width:1024px){   
+		
+}
+
+
+/* 
+tablets ipad 10.5"  (800 x 1280)
+*/
+@media (max-width:834px){   
+		
+}
+
+
+/* 
+tablets 7.7" , 8.9" , 10.1"  (800 x 1280)
+Motorola Xoom, Xyboard, Amazon Kindle Fire 8.9" HDX
+*/
+@media (max-width:800px){   
+		
+}
+
+
+/* tablet Apple iPad  (768 x 1024) */
+@media (max-width:768px){   
+		
+}
+
+
+/* Motorola Droid Razr HD (720 x 1280) */
+@media (max-width:720px){   
+		
+}
+
+
+/* tablet 7" - Google Nexus 7 (604 x 966) */
+@media (max-width:604px){   
+		
+}
+
+
+/* 
+tablet
+Samsung Galaxy Tab (600 x 1024), 
+BlackBerry PlayBook (600 x 1024),
+Amazon Kindle Fire (600 x 800) 
+*/
+@media (max-width:600px){   
+		
+}
+
+
+/* 
+celulares 
+Motorola Droid 3 / 4 / Razr, Atrix 4G / 2 (540 x 960) 
+*/
+@media (max-width:540px){   
+		
+}
+
+
+/* tablet Amazon Kindle Fire 7" HDX (533 x 853) */
+@media (max-width:533px){   
+		
+}
+
+
+/* 
+celulares
+Sony Xperia Sola, U (480 x 854)
+3.5" Apple iPhone 3GS /4 (320 x 480 paisagem) 
+*/
+@media (max-width:480px){   
+		
+}
+
+
+/* celulares
+LG Optimus LTE, 4X HD (424 x 753)
+Motorola Defy, Droid, Droid X, Milestone (424 x 753) 
+*/
+@media (max-width:424px){   
+		
+}
+
+
+/* celular 
+5.5" 
+Apple iPhone 6 Plus (414 x 736) 
+J7 Prime
+*/
+@media (max-width:414px){   
+		
+}
+
+
+/* celular Samsung Galaxy Note (400 x 640) */
+@media (max-width:400px){   
+		
+}
+
+
+/* 
+celulares
+4.7" Google Nexus 4, LG Optimus G (384 x 640),
+4.2" BlackBerry Z10 (384 x 640)
+ */
+@media (max-width:384px){   
+		
+}
+
+
+/* 4.7" Apple iPhone 6 (375 x 667) */
+@media (max-width:375px){   
+		
+}
+
+
+/* 
+celulares
+BlackBerry Z30, HTC One, EVO LTE (360 x 640),
+Google Nexus 5, HTC Sensation, Evo 3D (360 x 640)
+5" 
+5.5"
+ */
+@media (max-width:360px){   
+		
+}
+
+
+/* 
+celulares
+3.5" Apple iPhone 3GS /4 (320 x 480),
+4" Apple iPhone 5 (320 x 568),
+Google Nexus S, LG Optimus 2X / 3D / Black (320 x 533),
+HTC Evo, Touch HD, Desire HD, Desire (320 x 533),
+4" Google Nexus S (320 x 533),
+LG Optimus One (213 x 320 paisagem)
+ */
+@media (max-width:320px){   
+		
+}
+
+
+/* LG Optimus One (213 x 320) */
+@media (max-width:213px){   
+		
+}
+
+/*  //  */
