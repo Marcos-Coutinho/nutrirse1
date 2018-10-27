@@ -1,0 +1,93 @@
+body{
+	background:;
+}
+/* botão */
+.bt {
+	border:0px solid #25692A;
+	border-radius:0px;
+	width:;
+	cursor:pointer;
+	font-family:Verdana;
+	font-weight:bold;
+	font-size:13px;
+	padding:6px 30px;
+	text-decoration:none;
+	margin-top:20px;
+	background-color:none;
+	outline: none;
+}
+.bt-az{
+	background:#11931d;
+	box-shadow:inset 0px 0px 0px 0px #fff;
+	color:#fff;
+	text-shadow:;  
+}
+
+.bt-az:hover {
+	background:#11931d;
+	color:#fff;
+	text-shadow:;
+	outline: none;
+}
+/*//botão */
+.special{
+	padding:0 0;
+}
+.special-grids{
+	margin:0 0 0 0;
+}
+.owl-theme .owl-controls {
+    margin-top: 30px !important;
+}
+.w3-agileits-special-grid-info{
+    position: relative;
+    overflow: hidden;
+    padding: .5em;
+    margin: 0 .5em;
+    border: solid 5px #ececec;
+}
+.w3-agileits-special-grid-info img{
+	width:100%;
+}
+.agile-special-grid-text h5{
+    color: #2f2f2f;
+    font-size: 1em;
+    margin: 1em 0 0 0;
+    line-height: 1.4em;
+    font-weight: 700;
+	font-family: sans-serif;
+	background:;
+	height:50px;
+	text-align:center;
+}
+.agile-special-grid-text p{
+    color: #f44336;
+    font-size: 1.2em;
+    margin: 1em 0 0 0;
+    font-weight: 700;
+	background:;
+	height:50px;
+	text-align:center;
+	font-family: sans-serif;
+}
+.agile-special-grid-text1 p{
+    color: #f44336;
+    font-size: 1.2em;
+    margin: 1em 0 0 0;
+    font-weight: 700;
+	background:;
+	height:50px;
+	text-align:center;
+}
+.agile-special-grid-text p del{
+    color: #999999;
+    font-weight: 100;
+	font-family: sans-serif;
+}
+
+
+@media(max-width:480px){
+	.special-grids {
+		margin: 0 0 0 0;
+	}	
+}
