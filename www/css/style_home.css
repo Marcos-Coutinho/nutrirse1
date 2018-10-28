@@ -33,32 +33,35 @@
 	outline: none;
 }
 .bt-az {
-	background:#1cc924;
+	background:#11931d;
 	box-shadow:;
 	color:#fff;
-	text-shadow:;  
+	border-right:1px solid #fff;
+	border-bottom:1px solid #fff;  
 }
 
 .bt-az:hover {
-	background:#1cc924;
+	background:#11931d;
 	color:#fff;
-	text-shadow:;
 	outline: none;
 }
 .bt-az1 {
-	background:;
+	background:#11931d;
 	box-shadow:;
 	color:#fff;
 	text-shadow:;
-	border:1px solid #ffff00;
+	border-right:1px solid #fff;
+	border-bottom:1px solid #fff;
+	
+	/*border:1px solid #fff;*/
 }
 
 .bt-az1:hover {
-	background:;
+	background:#11931d;
 	color:#fff;
 	text-shadow:;
 	outline: none;
-	border:1px solid #ffff00;
+	border:1px solid #fff;
 }
 
 .bt:active {
