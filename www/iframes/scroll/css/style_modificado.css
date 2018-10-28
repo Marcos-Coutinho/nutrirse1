@@ -61,7 +61,7 @@ body{
 	text-align:center;
 }
 .agile-special-grid-text p{
-    color: #f44336;
+    color: #ed100a;
     font-size: 1.2em;
     margin: 1em 0 0 0;
     font-weight: 700;
@@ -76,7 +76,7 @@ body{
     margin: 1em 0 0 0;
     font-weight: 700;
 	background:;
-	height:50px;
+	height:35px;
 	text-align:center;
 }
 .agile-special-grid-text p del{
