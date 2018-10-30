@@ -4,6 +4,11 @@
 	margin:0px 0px 0px 0px;
 	height:100%;
 }
+.iframe_dicas{
+	text-align:center;
+	margin:0px 0px 0px 0px;
+	height:550px;
+}
 .iframe_img{
 	text-align:center;
 	background:;
@@ -70,43 +75,6 @@
 	color:#fff;
 	outline: none;
 }
-
-/*
-.bt {
-	border:0px solid #25692A;
-	border-radius:4px;
-	width:;
-	cursor:pointer;
-	font-family:Verdana;
-	font-weight:bold;
-	font-size:13px;
-	padding:6px 30px;
-	text-decoration:none;
-	margin-top:20px;
-	background-color:;
-	outline: none;
-}
-.bt-az {
-	background:linear-gradient(to bottom, #11931d 5%, #1cc924 100%);
-	box-shadow:inset 0px 0px 0px 0px #fff;
-	color:#fff;
-	text-shadow:0px 1px 0px #000;  
-}
-
-.bt-az:hover {
-	background:linear-gradient(to bottom, #1cc924 5%, #11931d 100%);
-	color:#fff;
-	text-shadow:0px 1px 0px #000;
-	outline: none;
-}
-
-.bt:active {
-	position:relative;
-	top:2px;
-	color:#fff;
-	outline: none;
-}
-*/
 /*-- //botão geral --*/
 
 /*-- banner inicial --*/
@@ -205,6 +173,13 @@
 	font-style: italic;
 	padding-bottom:10px;
 }
+.subtitulo_dicas{
+	text-align:center;
+	color:#fff;
+	margin:1em 0 0em;
+	font-style: italic;
+	padding-bottom:30px;
+}
 /*-- //subtitulos --*/
 
 /*-- cardápio --*/
@@ -239,7 +214,7 @@
 
 /*-- dicas --*/
 .dicas{
-	background:url(../images/16.jpg) no-repeat 0px 0px;
+	background:url(../images/6.jpg) no-repeat 0px 0px;
 	background-size:cover;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
@@ -248,7 +223,7 @@
 	margin-top:25px;
 }
 .dicas{
-	padding:3em 0;
+	padding:1.5em 0;
 }
 /*-- //dicas --*/
 
@@ -425,4 +400,17 @@
 	p,.newsletter input[type="email"]{
 		font-size: 13px;
 	}	
+}
+
+/* 
+celulares
+BlackBerry Z30, HTC One, EVO LTE (360 x 640),
+Google Nexus 5, HTC Sensation, Evo 3D (360 x 640)
+5" 
+5.5"
+ */
+@media (max-width:360px){   
+	.iframe_dicas{
+		height:370px;
+	}		
 }
