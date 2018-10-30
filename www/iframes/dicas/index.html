@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<title>Online Resume Personal Category Bootstrap Responsive website Template</title>
+	<!-- Meta tag Keywords -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta charset="UTF-8" />
+	<meta name="keywords" content="Online Resume Services Responsive web template" />
+	<script>
+		addEventListener("load", function () {
+			setTimeout(hideURLbar, 0);
+		}, false);
+		function hideURLbar() {
+			window.scrollTo(0, 1);
+		}
+	</script>
+	<!-- //Meta tag Keywords -->
+	<!-- Custom-Files -->
+	<link rel="stylesheet" href="css/bootstrap.css">
+	<!-- Bootstrap-Core-CSS -->	
+	<link rel="stylesheet" href="css/style_modificado.css" type="text/css" media="all" />
+	<!-- flexSlider (for testimonials) -->
+	<link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" property="" />	
+	<!-- //Custom-Files -->
+</head>
+<body>
+	<!-- clients -->					
+	<div class="row">
+		<div class="col-lg-6 w3_testimonials_grids">
+			<section class="slider">
+				<div class="flexslider">
+					<ul class="slides">
+						<li>
+							<div class="w3_testimonials_grid px-xl-5 px-4 mt-xl-4 mx-auto">
+								<img src="images/g1.jpg" alt="" class="img-fluid">
+								<h5 class="font-weight-bold">Thomas Carl</h5>										
+								<h4 class="txt_color">
+									Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil
+									impedit quo minus id quod possimus,	omnis voluptas.									
+								</h4>
+								<div class="w3ls_more" id="btn_centro">
+									<a href="#" class="bt bt-az">+ DETALHES</a>
+								</div>
+							</div>
+						</li>
+						<li>
+							<div class="w3_testimonials_grid px-xl-5 px-4 mt-xl-4 mx-auto">
+								<img src="images/g2.jpg" alt="" class="img-fluid">
+								<h5 class="font-weight-bold">Thomas Carl</h5>										
+								<h4 class="txt_color">
+									Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil
+									impedit quo minus id quod possimus,	omnis voluptas.									
+								</h4>
+								<div class="w3ls_more" id="btn_centro">
+									<a href="#" class="bt bt-az">+ DETALHES</a>
+								</div>
+							</div>
+						</li>
+						<li>
+							<div class="w3_testimonials_grid px-xl-5 px-4 mt-xl-4 mx-auto">
+								<img src="images/g3.jpg" alt="" class="img-fluid">
+								<h5 class="font-weight-bold">Thomas Carl</h5>																		
+								<h4 class="txt_color">
+									Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil
+									impedit quo minus id quod possimus,	omnis voluptas.									
+								</h4>
+								<div id="btn_centro">
+									<a href="#" class="bt bt-az">+ DETALHES</a>
+								</div>
+							</div>									
+						</li>								
+					</ul>
+					
+				</div>						
+			</section>					
+		</div><!-- text center -->
+		<!-- img right -->
+	</div>	
+	<!-- //clients -->
+	
+	<!-- JavaScript -->
+	<script src="js/jquery-2.2.3.min.js"></script>	
+	<script defer src="js/jquery.flexslider.js"></script>
+	<script>
+		$(window).load(function () {
+			$('.flexslider').flexslider({
+				animation: "slide",
+				start: function (slider) {
+					$('body').removeClass('loading');
+				}
+			});
+		});
+	</script>
+	<!-- //flexSlider (for testimonials) -->
+
+	<!-- animation js -->
+	<script src='js/aos.js'></script>
+	<script>
+		AOS.init({
+            easing: 'ease-out-back',
+            duration: 1000
+        });
+    </script>
+	<!-- //animation js -->
+	<!-- //JavaScript -->
+</body>
+</html>

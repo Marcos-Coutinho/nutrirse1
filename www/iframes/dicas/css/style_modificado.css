@@ -1,0 +1,117 @@
+body{
+	margin:0;
+	font-family: 'Open Sans', sans-serif;
+	background: none;
+    background-size: cover;
+}
+
+/*-- botão geral --*/
+#btn_centro {
+    width: 100%;
+	background:;
+	text-align:right;
+	margin-top:0px;
+	outline: none;
+}
+.txt_color {
+	color:#fff;
+	text-align:justify;
+}
+.bt {
+	border:0px solid #25692A;
+	border-radius:0px;
+	width:;
+	cursor:pointer;
+	font-family:Verdana;
+	font-weight:;
+	font-size:10px;
+	padding:5px 8px;
+	text-decoration:none;
+	background-color:;
+
+}
+.bt-az {
+	background:#;
+	box-shadow:;
+	color:#fff;
+	border-right:0px solid #fff;
+	border-bottom:0px solid #fff;
+	text-decoration: none;
+	border:1px solid #ffff00;
+
+}
+
+.bt-az:hover {
+	background:#;
+	color:#fff;
+	text-decoration: none;
+}
+/*-- //botão geral --*/
+
+
+/*-- clients --*/
+.w3_testimonials_grid {
+    background:;
+}
+.w3_testimonials_grid h4 {
+    font-size: 17px;
+    line-height: 1.4;
+    letter-spacing: 1px;
+	margin-top:-8px;
+	background:;
+	height:80px;
+	
+}
+
+.w3_testimonials_grid h5 {
+    color: #fff;
+    font-size: 22px;
+    letter-spacing: 1px;
+	background:;
+	margin-top:5px;
+	text-align:center;
+}
+
+.w3_testimonials_grid p {
+    font-size: 14px;
+}
+
+.w3_testimonials_grid h4 i {
+    font-size: 20px;
+}
+
+/*-- //clients --*/
+
+@media(max-width: 1080px) {
+    .w3_testimonials_grid h4 {
+        font-size: 16px;
+    }
+}
+
+@media(max-width: 414px) {
+    .w3_testimonials_grid h4 {
+        font-size: 15px;
+    }
+}
+
+@media(max-width: 384px) {
+    .w3_testimonials_grid h5 {
+        font-size: 19px;
+    }
+}
+
+@media(max-width: 375px) {
+    .w3_testimonials_grid h4 {
+        font-size: 14px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
